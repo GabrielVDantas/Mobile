@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="uf_array">
+        <item>BH</item>
+        <item>MT</item>
+        <item>PA</item>
+        <item>PR</item>
+        <item>RJ</item>
+        <item>SP</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cidades_array">
+        <item>Tietê</item>
+        <item>Tatuí</item>
+        <item>Taubaté</item>
+        <item>Teresina</item>
+        <item>Timbó</item>
+    </string-array>
+</resources>
